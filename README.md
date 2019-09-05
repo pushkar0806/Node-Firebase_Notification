@@ -7,7 +7,9 @@
 # how to setup application?
 
 1. Clone repo
-> git clone https://github.com/pushkar0806/Node-Firebase_Notification.git
+```bash
+git clone https://github.com/pushkar0806/Node-Firebase_Notification.git
+```
 
 2. Run following command to start application
 ```bash
